@@ -1,5 +1,5 @@
 
-### Lessons, learnings, information, advice, etc...
+### Lessons, information, advice, etc...
 
 ## Global vs. Local dependencies 
 
