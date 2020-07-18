@@ -13,3 +13,8 @@ While the TypeScript folder is ~50MB on disk, NPM does local caching so for many
 ## Debugging React
 
 A great example from Retsam that demonstrates the problem of declaring a function inside an App. Generating undesired closures when singular pieces of state are desired. https://codesandbox.io/s/damp-darkness-5879w
+
+
+## React useEffect Hook
+
+Read through this in deep dive about the useEffect hook. Very good information, learned more about Hooks in general and showed clearly why i was getting buggy state behavior in in trying to to clear state from my Fizz Buzz project. https://overreacted.io/a-complete-guide-to-useeffect/. 
