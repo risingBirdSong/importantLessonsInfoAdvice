@@ -18,3 +18,6 @@ A great example from Retsam that demonstrates the problem of declaring a functio
 ## React useEffect Hook
 
 Read through this in deep dive about the useEffect hook. Very good information, learned more about Hooks in general and showed clearly why i was getting buggy state behavior in in trying to to clear state from my Fizz Buzz project. https://overreacted.io/a-complete-guide-to-useeffect/. 
+
+great article about using Hooks with javascript timing functions. Takes some wrapping the head around but the results are fluid, clean and powerful!
+https://overreacted.io/making-setinterval-declarative-with-react-hooks/
